@@ -6,8 +6,8 @@ Físico (Universidad de los Andes) y analista de datos en Bogotá. Construyo her
 
 | Proyecto | Qué resuelve | Pruebas |
 |---|---|---:|
-| [Mercado al Día](https://github.com/JohanGB/mercado-al-dia) | Precios mayoristas de alimentos (DANE): qué está barato y pronóstico con LightGBM, error típico de 9,2 % a 1 mes | 51 |
-| [Factura Viva](https://github.com/JohanGB/factura-viva) | Facturas DIAN + extractos bancarios: gasto real y deducción del 1 % en renta, con trazabilidad SHA-256 | 93 |
+| [Mercado al Día](https://github.com/JohanGB/NowMarket) | Precios mayoristas de alimentos (DANE): qué está barato y pronóstico con LightGBM, error típico de 9,2 % a 1 mes | 51 |
+| [Factura Viva](https://github.com/JohanGB/billive) | Facturas DIAN + extractos bancarios: gasto real y deducción del 1 % en renta, con trazabilidad SHA-256 | 93 |
 | [Nómina Clara](https://github.com/JohanGB/nomina-clara) | Recargos, horas extra y liquidación según la Ley 2466, con cada regla citada | 72 |
 | [MyCents](https://github.com/JohanGB/App_HomeFinance) | Finanzas personales local-first (Windows y Android) con sincronización segura a Google Drive | 195 |
 | [Seguimiento de mirada](https://github.com/JohanGB/visual-follower) | Gaze tracking con webcam, 100 % local, geometría 3D + Ridge | 86 |
