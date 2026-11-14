@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Johan Esteban García Bautista · Datos con trazabilidad</title>
+  <desc id="d">Herramientas de datos que muestran de dónde sale cada cifra y cómo se comprobó.</desc>
+  <rect width="1200" height="300" rx="16" fill="#0E1218"/>
+  <g transform="translate(110 0)" fill="none" stroke="#ECEFF3" stroke-opacity=".16" stroke-width="1.2">
+    <path d="M960 150c0-46 38-84 84-84s78 34 64 76-70 46-86 16"/>
+    <path d="M960 150c-24-38-78-54-108-22s-16 84 30 76"/>
+    <path d="M960 150c30 18 50 60 20 90s-80 4-70-30"/>
+    <path d="M960 150 700 300" stroke-dasharray="2 7"/>
+    <path d="M960 150 1200 40" stroke-dasharray="2 7"/>
+    <path d="M960 150 1200 240" stroke-dasharray="2 7"/>
+  </g>
+  <circle cx="1070" cy="150" r="5" fill="#4CC3A6"/>
+  <text x="56" y="76" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" fill="#ECEFF3">Johan Esteban García Bautista</text>
+  <text x="56" y="140" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="42" font-weight="500" fill="#ECEFF3">Datos que muestran de dónde sale cada cifra.</text>
+  <text x="56" y="192" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="40" font-style="italic" fill="#A9B2C0">Y cómo se comprobó.</text>
+  <text x="56" y="252" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif" font-size="18" fill="#A9B2C0">Físico y analista de datos · Bogotá · Seguros, banca y datos</text>
+</svg>
