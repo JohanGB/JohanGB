@@ -18,7 +18,7 @@ Físico (Universidad de los Andes) y analista de datos en Bogotá. Construyo her
 | [Nómina Clara](https://github.com/JohanGB/nomina-clara) | Recargos, horas extra y liquidación según la Ley 2466 | **36 reglas** con norma, URL oficial y cita | 72 |
 | [MyCents](https://github.com/JohanGB/App_HomeFinance) | Finanzas personales local-first (Windows y Android) con respaldo seguro en Google Drive | Vista mensual en **11 ms** sobre un millón de gastos | 195 |
 | [Seguimiento de mirada](https://github.com/JohanGB/visual-follower) | Gaze tracking con webcam, 100 % local | Error de **532 → 87 px** con la cabeza girada 20° (simulación) | 85 |
-| [Huella](https://github.com/JohanGB/huella) | Profiler pasivo de solo lectura: consumo por aplicación y fugas de memoria | **0 ms** de CPU en 5 min de modo Gaming (VM Linux) | 116 de 117 |
+| [Huella](https://github.com/JohanGB/huella) | Profiler pasivo de solo lectura: consumo por aplicación y fugas de memoria | **0 ms** de CPU en 5 min de modo Gaming (VM Linux) | 117 |
 
 Cada proyecto tiene README en español e inglés, sus limitaciones publicadas y la página de detalle en el [portafolio](https://johangb.github.io/#proyectos).
 
