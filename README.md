@@ -13,7 +13,7 @@ Físico (Universidad de los Andes) y analista de datos en Bogotá. Construyo her
 
 | Proyecto | Qué resuelve | Cifra principal | Pruebas en CI |
 |---|---|---|---:|
-| [Mercado al Día](https://github.com/JohanGB/NowMarket) | Precios mayoristas de alimentos (DANE): qué está barato y cuánto costará el próximo mes | Error típico de **9,2 %** a 1 mes (LightGBM, prueba única) | 50 |
+| [NowMarket](https://github.com/JohanGB/NowMarket) | Precios mayoristas mensuales de alimentos (DANE): qué está barato y cuánto costará el próximo mes | Error típico de **9,7 %** a 1 mes con rango del 80 % (cobertura 80,6 %; ingenuo calibrado, auditado) | 71 (Windows: 68 + 3 omitidas) |
 | [Factura Viva](https://github.com/JohanGB/billive) | Facturas DIAN + extractos bancarios: gasto real y deducción del 1 % en renta | **9 chequeos** por factura, trazabilidad SHA-256 | 93 |
 | [Nómina Clara](https://github.com/JohanGB/nomina-clara) | Recargos, horas extra y liquidación según la Ley 2466 | **36 reglas** con norma, URL oficial y cita | 72 |
 | [MyCents](https://github.com/JohanGB/App_HomeFinance) | Finanzas personales local-first (Windows y Android) con respaldo seguro en Google Drive | Vista mensual en **11 ms** sobre un millón de gastos | 195 |
@@ -26,7 +26,7 @@ Cada proyecto tiene README en español e inglés, sus limitaciones publicadas y 
 
 [Tesis de pregrado](https://github.com/JohanGB/Proyect-Scotogenic-Model): modelo escotogénico para neutrinos y materia oscura. Flujo en Python que conecta SARAH, SPheno y micrOMEGAs, 13 variables y 22.000 escenarios válidos contrastados con datos experimentales (Universidad de los Andes, 2023–2024).
 
-**Herramientas:** Python (pandas, scikit-learn, LightGBM, statsmodels) · SQL · Power BI (DAX, Power Query) · Excel avanzado · R · Git
+**Herramientas:** Python (pandas, scikit-learn, LightGBM (evaluado en el experimento), statsmodels) · SQL · Power BI (DAX, Power Query) · Excel avanzado · R · Git
 
 📫 johanesteban2003@gmail.com · [LinkedIn](https://www.linkedin.com/in/johanegb) · 🌐 [johangb.github.io](https://johangb.github.io)
 
